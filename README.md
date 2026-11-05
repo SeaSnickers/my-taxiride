@@ -1,5 +1,7 @@
 # my taxiride
-// lab 3 simple test for taxi server how to use:
+lab 3 simple test for taxi server 
+
+# how to use:
 1. Create a project with the name: Taxiride.
 2. Input your name.
 3. Input the distance you want to travel. Only use numbers.
