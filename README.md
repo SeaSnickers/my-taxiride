@@ -9,6 +9,7 @@ lab 3 simple test for taxi server
 5. Input the distance you want to travel. Only use numbers.
 6. Input how long you want it to take. Only use integers.
 7. Enter, and have a fun ride when you run the code.
+  
 Note: There is no failsafe in the program, entering an incorrect value will cause a crash.
 # Project Example:
 ```
